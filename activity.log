@@ -33,3 +33,4 @@
 # 2025-01-11T18:46:25 - improve error messages
 # 2025-01-12T16:32:17 - fix null check
 # 2025-01-12T22:49:23 - fix edge case in pipeline
+# 2025-01-13T08:02:20 - improve type annotations
