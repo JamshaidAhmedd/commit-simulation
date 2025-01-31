@@ -88,3 +88,4 @@
 # 2025-01-29T13:58:32 - add unit tests
 # 2025-01-30T09:57:39 - improve logging
 # 2025-01-30T09:59:20 - fix edge case in pipeline
+# 2025-01-31T11:52:33 - improve type annotations
