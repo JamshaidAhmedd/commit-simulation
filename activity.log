@@ -94,3 +94,4 @@
 # 2025-01-31T13:04:17 - add missing docstring
 # 2025-01-31T09:33:50 - add unit tests
 # 2025-02-02T11:04:50 - improve error messages
+# 2025-02-02T13:15:35 - refactor for readability
