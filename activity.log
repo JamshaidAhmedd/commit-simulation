@@ -117,3 +117,4 @@
 # 2025-02-12T09:02:05 - fix typo in docs
 # 2025-02-13T08:18:09 - update README
 # 2025-02-13T12:24:48 - update dependencies
+# 2025-02-14T21:36:19 - fix edge case in pipeline
