@@ -152,3 +152,4 @@
 # 2025-02-25T13:42:26 - code cleanup
 # 2025-02-25T16:06:18 - improve logging
 # 2025-02-25T13:34:30 - improve logging
+# 2025-02-26T15:59:36 - fix null check
