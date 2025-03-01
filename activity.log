@@ -163,3 +163,4 @@
 # 2025-02-28T17:42:54 - clean up unused imports
 # 2025-02-28T23:47:08 - update config
 # 2025-02-28T08:10:39 - improve type annotations
+# 2025-03-01T15:17:07 - add error handling
