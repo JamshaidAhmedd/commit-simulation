@@ -190,3 +190,4 @@
 # 2025-03-11T22:03:52 - refactor for readability
 # 2025-03-11T15:13:27 - improve error messages
 # 2025-03-12T15:36:11 - fix edge case in pipeline
+# 2025-03-12T23:01:28 - add input validation
