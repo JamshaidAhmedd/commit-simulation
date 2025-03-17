@@ -204,3 +204,4 @@
 # 2025-03-15T09:26:03 - improve logging
 # 2025-03-15T15:24:21 - update dependencies
 # 2025-03-16T23:17:32 - code cleanup
+# 2025-03-17T15:36:43 - fix null check
