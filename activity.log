@@ -211,3 +211,4 @@
 # 2025-03-18T10:10:46 - update config
 # 2025-03-19T20:46:37 - fix edge case in pipeline
 # 2025-03-20T12:34:49 - clean up unused imports
+# 2025-03-20T12:05:22 - improve type annotations
