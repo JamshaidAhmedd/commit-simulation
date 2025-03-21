@@ -213,3 +213,4 @@
 # 2025-03-20T12:34:49 - clean up unused imports
 # 2025-03-20T12:05:22 - improve type annotations
 # 2025-03-20T12:40:31 - add missing docstring
+# 2025-03-21T08:15:07 - refactor for readability
