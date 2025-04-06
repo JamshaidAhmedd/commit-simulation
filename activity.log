@@ -248,3 +248,4 @@
 # 2025-04-04T11:58:08 - refactor for readability
 # 2025-04-05T11:15:26 - add input validation
 # 2025-04-06T16:55:05 - update dependencies
+# 2025-04-06T10:48:43 - fix null check
