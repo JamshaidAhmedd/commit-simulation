@@ -279,3 +279,4 @@
 # 2025-04-16T09:57:00 - add error handling
 # 2025-04-16T16:55:59 - update README
 # 2025-04-16T10:08:55 - improve error messages
+# 2025-04-16T11:51:59 - fix null check
