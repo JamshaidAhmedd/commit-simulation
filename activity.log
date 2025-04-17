@@ -282,3 +282,4 @@
 # 2025-04-16T11:51:59 - fix null check
 # 2025-04-17T08:55:07 - performance improvement
 # 2025-04-17T19:12:13 - minor fixes
+# 2025-04-17T15:51:22 - optimize query performance
