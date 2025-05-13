@@ -341,3 +341,4 @@
 # 2025-05-12T11:32:16 - update README
 # 2025-05-12T13:21:47 - update README
 # 2025-05-13T18:09:34 - fix edge case in pipeline
+# 2025-05-13T13:09:39 - improve type annotations
