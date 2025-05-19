@@ -357,3 +357,4 @@
 # 2025-05-18T16:07:18 - update config
 # 2025-05-19T15:31:59 - improve logging
 # 2025-05-19T11:12:07 - fix typo in docs
+# 2025-05-19T10:05:46 - add unit tests
