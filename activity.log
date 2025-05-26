@@ -379,3 +379,4 @@
 # 2025-05-25T19:04:11 - update dependencies
 # 2025-05-26T08:10:24 - minor fixes
 # 2025-05-26T12:41:04 - improve error messages
+# 2025-05-26T20:54:21 - improve type annotations
