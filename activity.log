@@ -381,3 +381,4 @@
 # 2025-05-26T12:41:04 - improve error messages
 # 2025-05-26T20:54:21 - improve type annotations
 # 2025-05-26T13:40:25 - minor fixes
+# 2025-05-27T09:33:21 - refactor for readability
