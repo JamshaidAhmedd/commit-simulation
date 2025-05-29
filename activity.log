@@ -385,3 +385,4 @@
 # 2025-05-27T16:06:02 - fix edge case in pipeline
 # 2025-05-28T11:57:26 - fix typo in docs
 # 2025-05-28T22:54:43 - update README
+# 2025-05-29T14:46:34 - add unit tests
