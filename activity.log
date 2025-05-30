@@ -388,3 +388,4 @@
 # 2025-05-29T14:46:34 - add unit tests
 # 2025-05-30T08:29:27 - update dependencies
 # 2025-05-30T12:24:00 - update config
+# 2025-05-30T17:20:19 - improve type annotations
