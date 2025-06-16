@@ -431,3 +431,4 @@
 # 2025-06-16T08:58:50 - update README
 # 2025-06-16T19:35:46 - clean up unused imports
 # 2025-06-16T18:46:34 - improve error messages
+# 2025-06-16T16:08:34 - add missing docstring
