@@ -432,3 +432,4 @@
 # 2025-06-16T19:35:46 - clean up unused imports
 # 2025-06-16T18:46:34 - improve error messages
 # 2025-06-16T16:08:34 - add missing docstring
+# 2025-06-17T14:27:56 - refactor agent logic
