@@ -442,3 +442,4 @@
 # 2025-06-18T22:42:55 - improve logging
 # 2025-06-19T18:34:38 - update config
 # 2025-06-19T12:51:56 - fix null check
+# 2025-06-19T10:51:41 - improve error messages
