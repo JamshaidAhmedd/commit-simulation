@@ -460,3 +460,4 @@
 # 2025-06-24T18:26:45 - code cleanup
 # 2025-06-25T13:52:40 - fix typo in docs
 # 2025-06-25T15:59:19 - improve type annotations
+# 2025-06-26T23:39:45 - add input validation
