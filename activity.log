@@ -462,3 +462,4 @@
 # 2025-06-25T15:59:19 - improve type annotations
 # 2025-06-26T23:39:45 - add input validation
 # 2025-06-26T21:26:25 - fix edge case in pipeline
+# 2025-06-27T21:03:12 - refactor for readability
