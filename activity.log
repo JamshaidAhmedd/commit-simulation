@@ -478,3 +478,4 @@
 # 2025-07-03T15:10:25 - fix typo in docs
 # 2025-07-03T11:53:01 - update dependencies
 # 2025-07-04T18:22:52 - fix null check
+# 2025-07-04T23:24:31 - improve logging
