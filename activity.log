@@ -477,3 +477,4 @@
 # 2025-07-03T13:07:40 - add input validation
 # 2025-07-03T15:10:25 - fix typo in docs
 # 2025-07-03T11:53:01 - update dependencies
+# 2025-07-04T18:22:52 - fix null check
