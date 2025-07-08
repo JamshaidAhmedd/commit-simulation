@@ -487,3 +487,4 @@
 # 2025-07-07T21:04:31 - refactor for readability
 # 2025-07-08T21:40:06 - improve type annotations
 # 2025-07-08T22:21:40 - add missing docstring
+# 2025-07-08T13:01:04 - improve error messages
