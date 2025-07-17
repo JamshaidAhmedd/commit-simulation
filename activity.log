@@ -513,3 +513,4 @@
 # 2025-07-16T13:10:30 - minor fixes
 # 2025-07-17T13:58:59 - code cleanup
 # 2025-07-17T20:53:17 - fix null check
+# 2025-07-17T20:14:17 - optimize query performance
