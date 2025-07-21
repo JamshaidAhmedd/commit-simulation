@@ -518,3 +518,4 @@
 # 2025-07-18T22:51:59 - improve type annotations
 # 2025-07-19T21:53:50 - performance improvement
 # 2025-07-20T10:00:46 - refactor agent logic
+# 2025-07-21T08:03:34 - improve error messages
