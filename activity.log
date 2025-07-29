@@ -533,3 +533,4 @@
 # 2025-07-29T21:25:54 - fix typo in docs
 # 2025-07-29T22:02:52 - fix typo in docs
 # 2025-07-29T19:29:39 - performance improvement
+# 2025-07-29T09:25:23 - fix null check
