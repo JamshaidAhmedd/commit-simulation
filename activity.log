@@ -558,3 +558,4 @@
 # 2025-08-05T15:25:30 - update dependencies
 # 2025-08-05T14:48:49 - add missing docstring
 # 2025-08-06T23:55:32 - add missing docstring
+# 2025-08-06T18:39:36 - improve type annotations
