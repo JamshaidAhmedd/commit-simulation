@@ -560,3 +560,4 @@
 # 2025-08-06T23:55:32 - add missing docstring
 # 2025-08-06T18:39:36 - improve type annotations
 # 2025-08-07T10:38:13 - update dependencies
+# 2025-08-07T14:26:57 - refactor agent logic
