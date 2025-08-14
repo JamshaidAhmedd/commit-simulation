@@ -583,3 +583,4 @@
 # 2025-08-13T11:44:41 - refactor for readability
 # 2025-08-14T21:39:32 - improve logging
 # 2025-08-14T13:27:19 - add missing docstring
+# 2025-08-14T12:37:33 - fix edge case in pipeline
