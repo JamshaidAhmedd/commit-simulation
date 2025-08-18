@@ -594,3 +594,4 @@
 # 2025-08-16T16:36:30 - add input validation
 # 2025-08-16T08:59:34 - refactor for readability
 # 2025-08-17T14:47:31 - add unit tests
+# 2025-08-18T19:10:03 - improve error messages
