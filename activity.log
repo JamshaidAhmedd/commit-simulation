@@ -614,3 +614,4 @@
 # 2025-08-22T19:24:25 - update config
 # 2025-08-23T09:52:03 - code cleanup
 # 2025-08-23T17:02:33 - add missing docstring
+# 2025-08-25T13:24:37 - refactor for readability
