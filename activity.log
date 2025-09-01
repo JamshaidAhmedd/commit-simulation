@@ -632,3 +632,4 @@
 # 2025-08-30T15:20:34 - fix typo in docs
 # 2025-08-30T20:45:18 - improve error messages
 # 2025-08-31T18:13:50 - add error handling
+# 2025-09-01T17:36:12 - add missing docstring
