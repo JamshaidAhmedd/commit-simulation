@@ -689,3 +689,4 @@
 # 2025-09-23T10:27:16 - improve type annotations
 # 2025-09-23T23:52:42 - fix null check
 # 2025-09-24T14:58:10 - add missing docstring
+# 2025-09-24T18:11:06 - improve error messages
