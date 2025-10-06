@@ -711,3 +711,4 @@
 # 2025-10-02T19:03:54 - add unit tests
 # 2025-10-03T15:52:33 - improve logging
 # 2025-10-03T11:29:30 - performance improvement
+# 2025-10-06T16:25:57 - improve type annotations
