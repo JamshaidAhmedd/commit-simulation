@@ -748,3 +748,4 @@
 # 2025-10-17T21:47:39 - minor fixes
 # 2025-10-18T21:28:45 - optimize query performance
 # 2025-10-18T13:22:11 - update dependencies
+# 2025-10-20T18:59:57 - improve error messages
