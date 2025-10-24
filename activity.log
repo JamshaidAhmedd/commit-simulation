@@ -764,3 +764,4 @@
 # 2025-10-23T13:41:41 - add input validation
 # 2025-10-23T22:40:53 - improve logging
 # 2025-10-23T21:15:51 - update README
+# 2025-10-24T08:58:17 - improve type annotations
