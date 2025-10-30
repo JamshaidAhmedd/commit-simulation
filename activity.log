@@ -775,3 +775,4 @@
 # 2025-10-29T12:47:09 - fix typo in docs
 # 2025-10-29T17:19:43 - fix typo in docs
 # 2025-10-29T18:24:25 - fix null check
+# 2025-10-30T14:24:26 - add unit tests
