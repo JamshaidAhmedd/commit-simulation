@@ -813,3 +813,4 @@
 # 2025-11-11T17:03:00 - clean up unused imports
 # 2025-11-12T20:33:17 - fix edge case in pipeline
 # 2025-11-12T10:19:30 - improve type annotations
+# 2025-11-12T17:08:15 - add input validation
