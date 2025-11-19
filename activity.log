@@ -832,3 +832,4 @@
 # 2025-11-17T11:52:43 - update config
 # 2025-11-17T09:30:31 - add missing docstring
 # 2025-11-18T19:51:59 - update dependencies
+# 2025-11-19T16:55:54 - add error handling
