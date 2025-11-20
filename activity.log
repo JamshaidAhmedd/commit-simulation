@@ -838,3 +838,4 @@
 # 2025-11-19T10:56:14 - update dependencies
 # 2025-11-19T13:14:05 - minor fixes
 # 2025-11-20T09:03:10 - improve error messages
+# 2025-11-20T12:10:57 - add unit tests
