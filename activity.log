@@ -837,3 +837,4 @@
 # 2025-11-19T23:33:42 - fix edge case in pipeline
 # 2025-11-19T10:56:14 - update dependencies
 # 2025-11-19T13:14:05 - minor fixes
+# 2025-11-20T09:03:10 - improve error messages
