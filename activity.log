@@ -850,3 +850,4 @@
 # 2025-11-24T16:52:23 - performance improvement
 # 2025-11-25T13:58:37 - performance improvement
 # 2025-11-25T08:57:53 - improve error messages
+# 2025-11-26T15:49:07 - fix null check
