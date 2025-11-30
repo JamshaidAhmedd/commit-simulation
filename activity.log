@@ -857,3 +857,4 @@
 # 2025-11-28T13:24:19 - fix typo in docs
 # 2025-11-28T23:26:03 - improve logging
 # 2025-11-30T08:54:15 - code cleanup
+# 2025-11-30T19:42:06 - add error handling
