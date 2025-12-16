@@ -899,3 +899,4 @@
 # 2025-12-15T20:14:45 - add unit tests
 # 2025-12-15T23:19:04 - improve type annotations
 # 2025-12-15T19:26:01 - improve logging
+# 2025-12-16T20:16:23 - add input validation
