@@ -908,3 +908,4 @@
 # 2025-12-18T09:36:27 - clean up unused imports
 # 2025-12-18T11:20:01 - fix edge case in pipeline
 # 2025-12-19T09:00:43 - minor fixes
+# 2025-12-20T09:52:01 - fix null check
