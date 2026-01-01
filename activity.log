@@ -935,3 +935,4 @@
 # 2025-12-30T09:08:59 - code cleanup
 # 2025-12-31T10:30:32 - update config
 # 2026-01-01T08:08:11 - improve error messages
+# 2026-01-01T10:37:53 - refactor agent logic
