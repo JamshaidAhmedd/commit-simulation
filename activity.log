@@ -944,3 +944,4 @@
 # 2026-01-02T20:26:01 - fix edge case in pipeline
 # 2026-01-04T19:22:10 - fix null check
 # 2026-01-04T12:36:17 - performance improvement
+# 2026-01-05T12:46:38 - improve type annotations
