@@ -993,3 +993,4 @@
 # 2026-01-20T14:40:04 - add missing docstring
 # 2026-01-21T21:37:49 - minor fixes
 # 2026-01-22T10:09:06 - improve logging
+# 2026-01-23T17:35:47 - add input validation
