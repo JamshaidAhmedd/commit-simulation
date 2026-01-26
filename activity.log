@@ -1000,3 +1000,4 @@
 # 2026-01-25T17:26:37 - fix typo in docs
 # 2026-01-25T21:50:05 - improve logging
 # 2026-01-26T08:46:08 - add missing docstring
+# 2026-01-26T10:14:07 - improve type annotations
