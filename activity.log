@@ -1019,3 +1019,4 @@
 # 2026-02-02T17:18:47 - fix typo in docs
 # 2026-02-03T11:20:49 - add input validation
 # 2026-02-03T15:40:26 - add input validation
+# 2026-02-03T17:20:49 - improve type annotations
