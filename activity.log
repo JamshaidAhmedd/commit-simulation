@@ -1017,3 +1017,4 @@
 # 2026-02-02T10:12:17 - fix null check
 # 2026-02-02T10:42:40 - fix null check
 # 2026-02-02T17:18:47 - fix typo in docs
+# 2026-02-03T11:20:49 - add input validation
