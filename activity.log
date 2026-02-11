@@ -1039,3 +1039,4 @@
 # 2026-02-10T18:09:54 - performance improvement
 # 2026-02-10T12:38:10 - add missing docstring
 # 2026-02-10T09:35:56 - improve error messages
+# 2026-02-11T17:39:32 - improve type annotations
