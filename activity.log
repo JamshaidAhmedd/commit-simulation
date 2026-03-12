@@ -1107,3 +1107,4 @@
 # 2026-03-10T18:43:42 - add unit tests
 # 2026-03-11T19:20:09 - performance improvement
 # 2026-03-12T17:55:53 - fix null check
+# 2026-03-12T11:54:46 - optimize query performance
