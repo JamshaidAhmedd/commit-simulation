@@ -1113,3 +1113,4 @@
 # 2026-03-12T11:32:08 - fix edge case in pipeline
 # 2026-03-13T22:52:07 - fix typo in docs
 # 2026-03-13T08:39:42 - add error handling
+# 2026-03-14T19:13:10 - fix null check
