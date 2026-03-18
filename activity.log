@@ -1121,3 +1121,4 @@
 # 2026-03-17T10:36:58 - optimize query performance
 # 2026-03-17T23:26:54 - code cleanup
 # 2026-03-18T19:09:26 - improve error messages
+# 2026-03-18T09:03:26 - fix null check
