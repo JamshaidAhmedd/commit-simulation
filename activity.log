@@ -1149,3 +1149,4 @@
 # 2026-03-30T08:49:00 - add input validation
 # 2026-03-31T18:13:41 - add error handling
 # 2026-03-31T22:23:31 - update README
+# 2026-03-31T22:02:43 - improve type annotations
