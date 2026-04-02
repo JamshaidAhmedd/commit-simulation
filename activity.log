@@ -1153,3 +1153,4 @@
 # 2026-04-01T18:14:37 - improve type annotations
 # 2026-04-02T14:41:31 - add missing docstring
 # 2026-04-02T17:17:32 - fix edge case in pipeline
+# 2026-04-02T13:34:18 - add error handling
