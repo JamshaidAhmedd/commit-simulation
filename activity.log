@@ -1161,3 +1161,4 @@
 # 2026-04-04T23:58:19 - update config
 # 2026-04-04T08:14:26 - code cleanup
 # 2026-04-06T15:42:50 - add missing docstring
+# 2026-04-06T15:30:17 - improve type annotations
