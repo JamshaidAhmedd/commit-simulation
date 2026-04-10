@@ -1174,3 +1174,4 @@
 # 2026-04-08T19:55:06 - fix typo in docs
 # 2026-04-09T21:17:46 - clean up unused imports
 # 2026-04-09T19:41:19 - code cleanup
+# 2026-04-10T19:56:15 - fix null check
