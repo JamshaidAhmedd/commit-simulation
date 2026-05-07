@@ -1237,3 +1237,4 @@
 # 2026-05-06T20:41:15 - improve error messages
 # 2026-05-07T13:58:18 - fix typo in docs
 # 2026-05-07T22:30:57 - add error handling
+# 2026-05-07T23:09:01 - add missing docstring
