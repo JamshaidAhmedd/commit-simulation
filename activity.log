@@ -1241,3 +1241,4 @@
 # 2026-05-07T08:12:13 - add error handling
 # 2026-05-08T14:02:21 - add missing docstring
 # 2026-05-08T21:28:28 - performance improvement
+# 2026-05-09T09:23:52 - improve error messages
