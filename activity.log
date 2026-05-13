@@ -1249,3 +1249,4 @@
 # 2026-05-12T11:42:00 - update README
 # 2026-05-13T10:50:30 - add error handling
 # 2026-05-13T23:17:08 - improve logging
+# 2026-05-13T23:33:28 - fix null check
