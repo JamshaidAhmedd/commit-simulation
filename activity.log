@@ -1285,3 +1285,4 @@
 # 2026-05-26T13:05:30 - minor fixes
 # 2026-05-26T17:45:46 - improve type annotations
 # 2026-05-26T10:59:09 - update config
+# 2026-05-27T18:13:54 - fix edge case in pipeline
